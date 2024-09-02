@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd6616ee-e678-4ebe-8d6d-aa4adac2ce1d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/reset/Reset2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reset/Reset3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +43,7 @@
     "Maven.GitSpring2024 [clean].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "reset",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/oh_hey_alex/IdeaProjects/GitSpring2024/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
