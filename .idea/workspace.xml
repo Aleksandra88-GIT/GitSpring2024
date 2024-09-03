@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd6616ee-e678-4ebe-8d6d-aa4adac2ce1d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/reset/Reset2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reset/Reset3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,20 +35,20 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ExtraEnd.executor": "Run",
-    "Maven.GitSpring2024 [clean].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "reset",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/oh_hey_alex/IdeaProjects/GitSpring2024/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.1402086",
-    "project.structure.side.proportion": "0.33863637"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ExtraEnd.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.GitSpring2024 [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;reset&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/oh_hey_alex/IdeaProjects/GitSpring2024/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.1402086&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.33863637&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="GitSpring2024" />
